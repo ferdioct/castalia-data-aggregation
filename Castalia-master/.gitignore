@@ -1,0 +1,12 @@
+*.tmp
+.*swp
+*.dat
+*.data
+*.grep
+*.o
+*~
+*.log
+*.tar.gz
+*.tar
+*.zip
+Simulations/*/*.txt
